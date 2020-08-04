@@ -1,0 +1,86 @@
+archive: odometer-testdata.zip
+test_cases:
+- points: 9
+  checker: odometer-checker.py
+  batched:
+  - {in: input/input0.grid, out: input/blank_output.grid}
+  - {in: input/input1.grid, out: input/blank_output.grid}
+  - {in: input/input2.grid, out: input/blank_output.grid}
+  - {in: input/input3.grid, out: input/blank_output.grid}
+  - {in: input/input4.grid, out: input/blank_output.grid}
+  - {in: input/input5.grid, out: input/blank_output.grid}
+  - {in: input/input6.grid, out: input/blank_output.grid}
+  - {in: input/input7.grid, out: input/blank_output.grid}
+  - {in: input/input8.grid, out: input/blank_output.grid}
+  - {in: input/input9.grid, out: input/blank_output.grid}
+- points: 12
+  checker: odometer-checker.py
+  batched:
+  - {in: input/input10.grid, out: input/blank_output.grid}
+  - {in: input/input11.grid, out: input/blank_output.grid}
+  - {in: input/input12.grid, out: input/blank_output.grid}
+  - {in: input/input13.grid, out: input/blank_output.grid}
+  - {in: input/input14.grid, out: input/blank_output.grid}
+  - {in: input/input15.grid, out: input/blank_output.grid}
+  - {in: input/input16.grid, out: input/blank_output.grid}
+  - {in: input/input17.grid, out: input/blank_output.grid}
+  - {in: input/input18.grid, out: input/blank_output.grid}
+  - {in: input/input19.grid, out: input/blank_output.grid}
+- points: 19
+  checker: odometer-checker.py
+  batched:
+  - {in: input/input20.grid, out: input/blank_output.grid}
+  - {in: input/input21.grid, out: input/blank_output.grid}
+  - {in: input/input22.grid, out: input/blank_output.grid}
+  - {in: input/input23.grid, out: input/blank_output.grid}
+  - {in: input/input24.grid, out: input/blank_output.grid}
+  - {in: input/input25.grid, out: input/blank_output.grid}
+  - {in: input/input26.grid, out: input/blank_output.grid}
+  - {in: input/input27.grid, out: input/blank_output.grid}
+  - {in: input/input28.grid, out: input/blank_output.grid}
+  - {in: input/input29.grid, out: input/blank_output.grid}
+- points: 32
+  checker: odometer-checker.py
+  batched:
+  - {in: input/input30.grid, out: input/blank_output.grid}
+  - {in: input/input31.grid, out: input/blank_output.grid}
+  - {in: input/input32.grid, out: input/blank_output.grid}
+  - {in: input/input33.grid, out: input/blank_output.grid}
+  - {in: input/input34.grid, out: input/blank_output.grid}
+  - {in: input/input35.grid, out: input/blank_output.grid}
+  - {in: input/input36.grid, out: input/blank_output.grid}
+  - {in: input/input37.grid, out: input/blank_output.grid}
+  - {in: input/input38.grid, out: input/blank_output.grid}
+  - {in: input/input39.grid, out: input/blank_output.grid}
+  - {in: input/input40.grid, out: input/blank_output.grid}
+  - {in: input/input41.grid, out: input/blank_output.grid}
+  - {in: input/input42.grid, out: input/blank_output.grid}
+  - {in: input/input43.grid, out: input/blank_output.grid}
+  - {in: input/input44.grid, out: input/blank_output.grid}
+  - {in: input/input45.grid, out: input/blank_output.grid}
+  - {in: input/input46.grid, out: input/blank_output.grid}
+  - {in: input/input47.grid, out: input/blank_output.grid}
+  - {in: input/input48.grid, out: input/blank_output.grid}
+  - {in: input/input49.grid, out: input/blank_output.grid}
+  - {in: input/input50.grid, out: input/blank_output.grid}
+- points: 28
+  checker: odometer-checker.py
+  batched:
+  - {in: input/input51.grid, out: input/blank_output.grid}
+  - {in: input/input52.grid, out: input/blank_output.grid}
+  - {in: input/input53.grid, out: input/blank_output.grid}
+  - {in: input/input54.grid, out: input/blank_output.grid}
+  - {in: input/input55.grid, out: input/blank_output.grid}
+  - {in: input/input56.grid, out: input/blank_output.grid}
+  - {in: input/input57.grid, out: input/blank_output.grid}
+  - {in: input/input58.grid, out: input/blank_output.grid}
+  - {in: input/input59.grid, out: input/blank_output.grid}
+  - {in: input/input60.grid, out: input/blank_output.grid}
+  - {in: input/input61.grid, out: input/blank_output.grid}
+  - {in: input/input62.grid, out: input/blank_output.grid}
+  - {in: input/input63.grid, out: input/blank_output.grid}
+  - {in: input/input64.grid, out: input/blank_output.grid}
+  - {in: input/input65.grid, out: input/blank_output.grid}
+  - {in: input/input66.grid, out: input/blank_output.grid}
+  - {in: input/input67.grid, out: input/blank_output.grid}
+  - {in: input/input68.grid, out: input/blank_output.grid}
